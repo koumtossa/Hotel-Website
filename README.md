@@ -1,2 +1,2 @@
-# Hotel-Website
-Hotel  Projekt mit HTML, CSS, JS, JSON
+# Frontend-Website
+Frontend Projekt mit HTML, CSS, JS, JSON
